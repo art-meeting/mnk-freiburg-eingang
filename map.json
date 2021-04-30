@@ -37,7 +37,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.ph-freiburg.de\/fileadmin\/shares\/Institute\/Kunst\/Spielmann_Workadventure\/mnk\/bilder\/info_karte_campus.jpg\n"
+                 "value":"https:\/\/www.ph-freiburg.de\/fileadmin\/shares\/Institute\/Kunst\/Spielmann_Workadventure\/mnk\/bilder\/Info-Karte_campus.jpg\n"
                 }],
          "type":"tilelayer",
          "visible":true,
